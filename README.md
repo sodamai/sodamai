@@ -14,4 +14,4 @@ I like:
 
 I am open to work for software developer specific roles.
 
-![cat with bands](./cat_with_bands.jpg)
+<img width="200px" src="./bang.gif" />
