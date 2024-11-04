@@ -1,5 +1,7 @@
 Hi, I am @sodamai.
 
-i code random stuff
+I code random stuff in python, javascript, c++. <br>
+My interest lies in web dev, applied ml, algorithms. <br>
+I am open to work for software developer specific roles.
 
-<img width="300px" src="./spike.gif" />
+<img src="./spike.gif" />
